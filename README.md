@@ -10,8 +10,8 @@
     Code the Javascript of tomorrow today! :)_
 
 ## To install:
-            npm i
-            jspm i
+    npm i
+    jspm i
 
 ## To run:
     npm start
