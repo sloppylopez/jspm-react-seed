@@ -4,7 +4,7 @@
     Using Babel with Jspm for transpiling
     Using React
     ES6 modules
-    Bundling and Source Mapping out-of-the-box thanks to Japm
+    Bundling and Source Mapping out-of-the-box thanks to Jspm
 
 ## This can be used as a barebones seed for your JSPM/REACT project:
     Code the Javascript of tomorrow today! :)_
