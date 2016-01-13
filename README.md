@@ -16,3 +16,7 @@
 ## To run:
     npm start
     
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sloppylopez/jspm-react-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
